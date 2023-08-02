@@ -15,5 +15,5 @@ I'm Shlok Ramteke, a 23-year old technical enthusiast and a Graduate student in 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,html,css,py,unity,matlab,latex,cpp,blender)](https://skillicons.dev)
 
 
-[comment]: ![Shlok's github stats](https://github-readme-stats.vercel.app/api?username=ShlokRamteke&show_icons=true&theme=dark)
+[comment]:![Shlok's github stats](https://github-readme-stats.vercel.app/api?username=ShlokRamteke&show_icons=true&theme=dark)
 
