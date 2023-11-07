@@ -1,6 +1,6 @@
 
 ### Hi there I'm Shlok👋
-I'm Shlok Ramteke, a 23-year old technical enthusiast and a Graduate student in IITKGP, India.I also do web development. Passionate to contribute open-source projects and make cool products.<br>
+I'm Shlok Ramteke, a 23-year old technical enthusiast and a Graduate student in IIT Kharagpur, India. I also work in web development. Passionate to  make cool products.<br>
 ## 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/shlok-ramteke-2407/)](https://www.linkedin.com/in/shlok-ramteke-2407/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&&link=https://github.com/ShlokRamteke)](https://github.com/ShlokRamteke)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shlok.ramteke24@gmail.com)](mailto:shlok.ramteke24@gmail.com)
