@@ -4,7 +4,7 @@
 
 ## 💻 Full Stack Developer | ML Enthusiast | IIT Graduate
 
-Full Stack Developer with expertise in the MERN stack, currently working at Pepper Square. IIT postgraduate with a strong foundation in both frontend and backend technologies, passionate about creating efficient, user-centric web applications and exploring machine learning solutions.
+Full Stack Developer with expertise in the MERN stack. IIT postgraduate with a strong foundation in both frontend and backend technologies, passionate about creating efficient, user-centric web applications and exploring machine learning solutions.
 
 
 ## 🚀 Skills
